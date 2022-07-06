@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-  <img height='180cm' src='https://github-readme-stats.vercel.app/api?username=costalucs&theme=dracula&show_icons=true'>
+  <img height='180cm' src='https://github-readme-stats.vercel.app/api?username=costalucs&theme=dracula&show_icons=true'&count_private=true>
       <img height='180cm' src='https://github-readme-stats.vercel.app/api/top-langs/?username=costalucs&count_private=true&layout=compact&theme=dracula'>  
 
   
