@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<div>
-   <img height=.'180cm' src='https://github-readme-stats.vercel.app/api?username=costalucs)](https://github.com/costalucs/github-readme-stats'/>
-      <img height='180cm' src='https://github-readme-stats.vercel.app/api/top-langs/?username=costalucs&count_private=true&layout=compact&theme=dracula'>  
-
-  
-</div>
+| <a href="https://github.com/costalucs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=costalucs&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lucas github stats" /></a> | <a href="https://github.com/costalucs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costalucs&layout=compact&theme=buefy&hide_border=true" /></a> |
   
 
 
