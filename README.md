@@ -1,9 +1,9 @@
-### <h3 align="center">Hello! I'm Lucas Costa!</h3>
+<h3 align="center">Hello! I'm Lucas Costa!</h3>
 <h4 align="center">Front-end developer. </h4>
 
 <div align="center">
-<img width='50%' height="180em" src="https://github-readme-stats.vercel.app/api?username=costalucs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img width='50%' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costalucs&layout=compact&langs_count=7&theme=dracula"/>
+<img width='45%' height="180em" src="https://github-readme-stats.vercel.app/api?username=costalucs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img width='45%' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costalucs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
 
