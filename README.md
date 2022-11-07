@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Sobre:
+Olá! Eu sou o Lucas 🇧🇷
 🔭 Desenvolvedor Full Stack<br>🌱 Atualmente estudando MongoDB.<br>⚡ Iniciei estudando ciências naturais, fui pra ciências exatas e da terra, mas conheci a programação e o desenvolvimento web e me apaixonei.
 
 
