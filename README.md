@@ -1,6 +1,8 @@
 # 💫 Sobre:
-Olá! Eu sou o Lucas 🇧🇷
-🔭 Desenvolvedor Full Stack<br>🌱 Atualmente estudando MongoDB.<br>⚡ Iniciei estudando ciências naturais, fui pra ciências exatas e da terra, mas conheci a programação e o desenvolvimento web e me apaixonei.
+Olá!!
+Sou um desenvolvedor full stack com experiência prática em construção de aplicações web modernas utilizando JavaScript e TypeScript, com foco em frameworks e bibliotecas como React e Node.js. Tenho entendimento de arquitetura de sistemas e boas práticas de desenvolvimento, além de uma forte capacidade de aprender novas tecnologias e se adaptar a diferentes ambientes.
+
+Tenho experiência em desenvolvimento de aplicações front-end e back-end, sendo capaz de criar interfaces de usuário dinâmicas e eficientes com React, e implementar APIs e servidores escaláveis com Node.js. Além disso, possuo conhecimentos básicos em outras tecnologias como Python, Java, Vue.js, Next.js, NestJS, Docker, MySQL e ORM (Sequelize, TypeORM) o que me permite ter uma visão ampla e flexível ao desenvolver soluções para diferentes tipos de projetos.
 📧 Você pode entrar em contato comigo aqui: costaldes@gmail.com
 
 
